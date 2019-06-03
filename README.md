@@ -10,4 +10,4 @@
 - [x] 整理better-scroll,实现全局组件vue-scroll,实现下拉刷新，上拉加载，图片加载完毕->init,选项卡切换数据 scrollTop->0 ... [项目链接](https://github.com/ruhook/vue-scroll)
 - [x] EventEmitter 理解和实现 [实现地址](https://github.com/ruhook/EventEmitter)
 - [x] webpack4.x 搭建 vue脚手架 并实现 本地构建优化  和  打包优化  [项目地址](https://github.com/ruhook/webpack-config)
-- [ ] 学习webpack执行过程
+- [ ] 由常用版本的throttle、debounce  进化到 vue组件 和指令版本 。

@@ -13,4 +13,3 @@
 - [x] webpack4.x 搭建 vue脚手架 并实现 本地构建优化  和  打包优化  [项目地址](https://github.com/ruhook/webpack-config)
 - [x] 实现webpackUploadPlugin插件，  监听done钩子函数， 进行dist目录静态文件上传 [项目地址](https://github.com/ruhook/learning-web/tree/master/webpackUploadPlugin)
 - [x] 由常用版本的throttle、debounce  进化到 vue组件 和指令版本 。[项目地址](https://github.com/ruhook/learning-web/tree/master/debounceComponent)
-- [ ] 实现call、apply和bind 。 
